@@ -212,9 +212,6 @@ header .icons #menu-bars{
     line-height: 1.5;
 }
 
-.swiper-pagination-bullet-active{
-    background:var(--green);
-}
 
 
 
@@ -242,7 +239,11 @@ header .icons #menu-bars{
 
 
 
-/* media querry */
+
+
+
+
+/* media queries  */
 
 @media (max-width:991px){
 
@@ -316,3 +317,4 @@ header .icons #menu-bars{
     }
 
 }
+
